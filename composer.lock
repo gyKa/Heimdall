@@ -3994,64 +3994,6 @@
             "time": "2019-12-12T13:22:17+00:00"
         },
         {
-            "name": "graham-campbell/cache-plugin",
-            "version": "v1.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/GrahamCampbell/Cache-Plugin.git",
-                "reference": "7090dd5e4a07f5c9c8e8a4ff65c3c57dab536b78"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/GrahamCampbell/Cache-Plugin/zipball/7090dd5e4a07f5c9c8e8a4ff65c3c57dab536b78",
-                "reference": "7090dd5e4a07f5c9c8e8a4ff65c3c57dab536b78",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^7.0",
-                "php-http/cache-plugin": "^1.6",
-                "php-http/client-common": "^1.9|^2.0",
-                "php-http/message-factory": "^1.0",
-                "psr/cache": "^1.0"
-            },
-            "require-dev": {
-                "graham-campbell/analyzer": "^2.1",
-                "phpunit/phpunit": "^6.5|^7.0"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.1-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "GrahamCampbell\\CachePlugin\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Graham Campbell",
-                    "email": "graham@alt-three.com"
-                }
-            ],
-            "description": "Provides A Simple HTTP Cache Plugin With Good Defaults",
-            "keywords": [
-                "Cache Plugin",
-                "Cache-Plugin",
-                "Graham Campbell",
-                "GrahamCampbell",
-                "cache",
-                "http"
-            ],
-            "abandoned": "php-http/cache-plugin",
-            "time": "2019-01-27T13:36:25+00:00"
-        },
-        {
             "name": "graham-campbell/manager",
             "version": "v4.5.2",
             "source": {
