@@ -1,3 +1,4 @@
+vendor/
 /app/SupportedApps
 /node_modules
 /public/hot
